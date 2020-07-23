@@ -2,19 +2,19 @@
 
 Uma classe que utiliza a biblioteca `picpay-python` para criar pagamentos, retornar o status, e cancelar pagamentos.
 
-## ðŸ“¥ Instalando dependÃªncias
+## 📥 Instalando dependências
 
 ```bash
 pip install picpay-python
 ```
 
-## âš™ ConfiguraÃ§Ã£o dos Tokens
+## ⚙ Configuração dos Tokens
 
 Acesse https://lojista.picpay.com/ecommerce-token, pegue o X-PicPay-Token e o X-Seller-Token.
 
 Abra o arquivo `config.py` e configure com os dados pegos no site do **PicPay**.
 
-## ðŸ‘¥ Contribuidores
+## 👥 Contribuidores
 
 <table>
   <tr>
@@ -22,6 +22,6 @@ Abra o arquivo `config.py` e configure com os dados pegos no site do **PicPay**.
   </tr>
 </table>
 
-## ðŸ“– LicenÃ§a
+## 📖 Licença
 
-Este projeto estÃ¡ licenciado sob a licenÃ§a **MPL 2.0**.
+Este projeto está licenciado sob a licença **MPL 2.0**.
